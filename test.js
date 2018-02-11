@@ -8,3 +8,13 @@ function getAverage (a,b,c,d,e,f){
 
 var myResult = getAverage(7,8,9,10,11,12);
 console.log("the average is " + myResult);
+
+function getDifference (a,b){
+	
+	var difference = a / b;
+	console.log(difference);
+	return difference;
+}
+
+var myResult = getDifference(6,2);
+console.log("the difference is " + myResult);
