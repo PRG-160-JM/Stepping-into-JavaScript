@@ -18,3 +18,13 @@ function getDifference (a,b){
 
 var myResult = getDifference(6,2);
 console.log("the difference is " + myResult);
+
+function getStr(str1,str2){
+	
+	var res = str1.concat(str2);
+	console.log(res);
+	return res;
+}
+
+var myResult = getStr(a + b);
+console.log("the full string is " +myResult); 
