@@ -59,5 +59,6 @@ console.log(words);
 
 /*Checkpoint 6 */
 
+document.getElementById("p1").innerHTML = "I do not think this is correct!";
 
 	
