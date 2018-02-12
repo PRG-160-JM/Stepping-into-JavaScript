@@ -37,3 +37,13 @@ function getYear(value)
 	
 }
 console.log(getYear(1995));
+
+/*Checkpoint 3 */
+
+function countNum(num)
+{
+	
+	console.count(num);
+	
+}
+console.log(countNum(8));
