@@ -40,10 +40,24 @@ console.log(getYear(1995));
 
 /*Checkpoint 3 */
 
-function countNum(num)
-{
-	
+var num = "";
+
+function count(num) {
 	console.count(num);
-	
+	return "Finally " + num;
 }
-console.log(countNum(8));
+console.count(8);
+
+/*Checkpoint 4 */
+
+/*Checkpoint 5 */
+
+var str = "This homework will not phase me.";
+var words = str.split(" ");
+
+console.log(words);
+
+/*Checkpoint 6 */
+
+
+	
